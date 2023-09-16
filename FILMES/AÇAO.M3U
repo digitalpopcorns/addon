@@ -1,0 +1,49 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTM5MDc5N2ItOTQwZC00N2U3LWI1ZDEtODU4Njc4MDVhNTBjXkEyXkFqcGdeQXVyMTI0OTg4MDEx._V1_FMjpg_UX1000_.jpg", Sacrum Vindictae
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F6E77F7C899CFE094DFAEF7BF78BC78B596FCD4F&dn=VAMOSTORRENT.COM.-WEB-DL-720P-LEGENDA-FIXA.Sacrum.Vindictae.2023.720p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=wss%3a%2f%2fwstracker.online
+
+#EXTINF:-1 tvg-logo="https://assets-prd.ignimgs.com/2023/06/29/i-am-rage-movie-button-1688038782710.jpg", I Am Rage
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:31EFDD30B4B71E93DE3C1B421F2CDC87A0217DE9&dn=VAMOSTORRENT.COM.-WEB-DL-1080P-LEGENDA-FIXA.I.Am.Rage.2023.1080p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=wss%3a%2f%2fwstracker.online
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTM0MzRlNDgtZWY3Ni00N2E4LThlODItYWE5MWUyMTYwMzQzXkEyXkFqcGdeQXVyMTQ1OTM2NTE3._V1_.jpg",Badcop
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:332DC51F72270A6B943FD7C9AEBC2D2890BF9AE2&dn=VAMOSTORRENT.COM.-WEB-DL-1080P-LEGENDA-FIXA-2.21-GB.Badcop.2023.1080p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=wss%3a%2f%2fwstracker.online
+
+#EXTINF:-1 tvg-logo="https://i.mydramalist.com/rNWJqy_4f.jpg", Everything Under Control
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:984496853221B39A42D0F310CF391A5E7399716E&dn=VAMOSTORRENT.COM.-WEB-DL-1080P-LEGENDA-FIXA-1.99-GB.Everything.Under.Control.2023.1080p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=wss%3a%2f%2fwstracker.online
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2RmZjE4NzctODkzMS00NzEyLTkxNGMtODE0NTBmOTNiYTU0XkEyXkFqcGdeQXVyNTMxNDA5MTk@._V1_FMjpg_UX1000_.jpg", Spin the Block
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CD20380C2BD3571C3C3953D26BD89CE7E0786B37&dn=VAMOSTORRENT.COM.-WEB-DL-1080P-LEGENDA-FIXA-1.28-GB.Spin.the.Block.2023.1080p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=wss%3a%2f%2fwstracker.online
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNmQxZWNiNWUtMmFmMC00MmU3LTlkODctYjRlZjk2YmI4NmMyXkEyXkFqcGdeQXVyMzg3NDY5Mzk@._V1_.jpg", Ramon
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4C02412C34D4346BA72333141FCDD9FB88F6FE11&dn=VAMOSTORRENT.COM.-WEB-DL-1080P-LEGENDA-FIXA-2.21-GB.Ramon.2023.1080p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=wss%3a%2f%2fwstracker.online
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQ0ZjhhZGUtMmQ2ZC00ZDU0LTkxM2QtMjE4YTA5M2E0YzE5XkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_.jpg", Babaylan
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F8347FC783F93969111CEB37D78DA8E403595872&dn=VAMOSTORRENT.COM.-WEB-DL-1080P-LEGENDA-FIXA-2.02-GB.Babaylan.2023.1080p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=wss%3a%2f%2fwstracker.online
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjhhOWM4ZjAtYzdiOS00MTdiLTk0YzktZmZhMDkxYjk5NTdlXkEyXkFqcGdeQXVyNDIzMDc1MDQ@._V1_FMjpg_UX1000_.jpg", Outsource
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0FC43E58DF44F455524DCC23DD37913EC93E8379&dn=VAMOSTORRENT.COM.-WEB-DL-1080P-LEGENDA-FIXA-1.96-GB.Outsource.2022.1080p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=wss%3a%2f%2fwstracker.online
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZGVlNWNkMjktN2M4NC00NTNhLTlkYmMtNzMzNzY1ZGUzY2IzXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_FMjpg_UX1000_.jpg", Shin Kamen Rider
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B26AF055092CF6931655ED1982CAB3D8F7F917BC&dn=VAMOSTORRENT.COM.-WEB-DL-1080P-LEGENDA-FIXA-2.34-GB.Shin.Kamen.Rider.2023.1080p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=wss%3a%2f%2fwstracker.online
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYWYyZGQ3YmYtYjgxOC00ZGZkLTkxMmUtOGFkMjJlNjFjNmNhXkEyXkFqcGdeQXVyMzUxMTg1NTI@._V1_.jpg", DC Down
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F6538DCE5C393DA8414641CB479AAEE593A399B6&dn=VAMOSTORRENT.COM.-WEB-DL-720P-LEGENDA-FIXA-1.58-GB.DC.Down.2023.720p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=wss%3a%2f%2fwstracker.online
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOThjZjlkYmItYmRiZi00NjBjLWFjMDAtMzlhMGVhNTk3MWUyXkEyXkFqcGdeQXVyMTE4NTI5NTA@._V1_FMjpg_UX1000_.jpg", Called to Duty 
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B3A3E1B0E4224D47C2FDAE60C67AE6EA3BB4CCF5&dn=VAMOSTORRENT.COM.-WEB-DL-1080P-LEGENDA-FIXA-1.96-GB.Called.To.Duty.2023.1080p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=wss%3a%2f%2fwstracker.online
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjBlNWRmMjMtM2Y1NC00ZGM2LTllYWItZmE4MTYzZDlkZmU4XkEyXkFqcGdeQXVyMTI2NTkzMDQx._V1_.jpg", Trust Nobody 2 - Still No Trust
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:435A6B8934F9E9AE8DF3D3A88BD38B7172850B34&dn=VAMOSTORRENT.COM.-WEB-DL-720P-LEGENDA-FIXA-2.34-GB.Trust.Nobody.2.2023.720p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=wss%3a%2f%2fwstracker.online
+
+#EXTINF:-1 tvg-logo="https://i.mydramalist.com/6qbkd_4f.jpg", Invisible Tattoo
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:73EA2559D4C0AEA9E3731271BA9DE068E209FB98&dn=VAMOSTORRENT.COM.-LEGENDA-FIXA.Invisible.Tattoo.2022.1080p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=wss%3a%2f%2fwstracker.online
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/Sakra_film_poster.jpg", Sakra
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7DE59B1D5FDC3CA6079B1DA445B2D8DEC51D39E2&dn=VAMOSTORRENT.COM.-LEGENDA-FIXA.Sakra.2023.720p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=wss%3a%2f%2fwstracker.online
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDczOTJjOTYtZGUxZi00MTFjLTkwNTgtYWNmZjU0NDc2NzYwXkEyXkFqcGdeQXVyNjE0MTY2NjY@._V1_.jpg", The Getback
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3E0E57AB103B234147D0D6FDE0E10960A9C111EA&dn=VAMOSTORRENT.COM.-WEB-DL-720P-LEGENDA-FIXA-1.62-GB.The.Getback.2023.720p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=wss%3a%2f%2fwstracker.online
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDM1YWU1NTItMzQ2YS00NDc2LTk0OWUtNTYzOWZiOWNmMTRmXkEyXkFqcGdeQXVyMjQ1MjI2MzE@._V1_.jpg", Trap House
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9602572036E7967E2869EE7F6CA94C59559CC14A&dn=VAMOSTORRENT.COM.-DOWNLOAD-MAGNET.The.Deep.Web.Murdershow.2023.720p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=wss%3a%2f%2fwstracker.online
